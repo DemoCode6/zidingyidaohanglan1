@@ -1,0 +1,3 @@
+<navBar title-text="商圈" home-icon="/images/home_icon@3x.png" background="linear-gradient(to right, #007efb , #01aef9)" font-family="PingFang" bindback="back" />
+<!-- 头部固定定位需要用这个盒子自定义高度撑起来 -->
+<view style='height: {{status + navHeight}}px; width:100%'></view>
